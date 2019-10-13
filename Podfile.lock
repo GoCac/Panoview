@@ -1,0 +1,210 @@
+PODS:
+  - Eureka (4.3.1)
+  - FDFoundation (1.3.12):
+    - FDFoundation/Extension (= 1.3.12)
+    - FDFoundation/FDEventBus (= 1.3.12)
+    - FDFoundation/FileManager (= 1.3.12)
+    - FDFoundation/FileMD5Hash (= 1.3.12)
+    - FDFoundation/Util (= 1.3.12)
+    - FDFoundation/Yaml (= 1.3.12)
+    - FDFoundation/ZipArchive (= 1.3.12)
+  - FDFoundation/Extension (1.3.12)
+  - FDFoundation/FDEventBus (1.3.12):
+    - FDFoundation/Extension
+  - FDFoundation/FileManager (1.3.12)
+  - FDFoundation/FileMD5Hash (1.3.12)
+  - FDFoundation/Util (1.3.12)
+  - FDFoundation/Yaml (1.3.12)
+  - FDFoundation/ZipArchive (1.3.12)
+  - FDUIKit (0.2.7):
+    - FDUIKit/BaseController (= 0.2.7)
+    - FDUIKit/Evaluation (= 0.2.7)
+    - FDUIKit/FDAlertView (= 0.2.7)
+    - FDUIKit/FDAttributeText (= 0.2.7)
+    - FDUIKit/FDAutoLayout (= 0.2.7)
+    - FDUIKit/FDButton (= 0.2.7)
+    - FDUIKit/FDCitySelectView (= 0.2.7)
+    - FDUIKit/FDDatePickerView (= 0.2.7)
+    - FDUIKit/FDMediaResources (= 0.2.7)
+    - FDUIKit/FDMultiMedia (= 0.2.7)
+    - FDUIKit/FDPhotos (= 0.2.7)
+    - FDUIKit/FDProgressView (= 0.2.7)
+    - FDUIKit/FDPromptView (= 0.2.7)
+    - FDUIKit/FDScanning (= 0.2.7)
+    - FDUIKit/FDSegmentedControl (= 0.2.7)
+    - FDUIKit/FDUIResource (= 0.2.7)
+    - FDUIKit/FDVerifyCode (= 0.2.7)
+    - FDUIKit/Form (= 0.2.7)
+    - FDUIKit/Hud (= 0.2.7)
+    - FDUIKit/PanoView (= 0.2.7)
+    - FDUIKit/PopupControl (= 0.2.7)
+    - FDUIKit/Toast (= 0.2.7)
+    - FDUIKit/Utils (= 0.2.7)
+    - FDUIKit/VerifyCode (= 0.2.7)
+    - IQKeyboardManager
+    - SnapKit
+  - FDUIKit/BaseController (0.2.7):
+    - FDFoundation
+    - FDUIKit/FDUIResource
+    - IQKeyboardManager
+    - SnapKit
+  - FDUIKit/Evaluation (0.2.7):
+    - FDUIKit/FDUIResource
+    - FDUIKit/Hud
+    - FDUIKit/Toast
+    - IQKeyboardManager
+    - SnapKit
+  - FDUIKit/FDAlertView (0.2.7):
+    - FDFoundation
+    - FDUIKit/FDUIResource
+    - IQKeyboardManager
+    - SnapKit
+  - FDUIKit/FDAttributeText (0.2.7):
+    - FDFoundation
+    - IQKeyboardManager
+    - SnapKit
+  - FDUIKit/FDAutoLayout (0.2.7):
+    - IQKeyboardManager
+    - SnapKit
+  - FDUIKit/FDButton (0.2.7):
+    - FDFoundation
+    - FDUIKit/FDUIResource
+    - IQKeyboardManager
+    - SnapKit
+  - FDUIKit/FDCitySelectView (0.2.7):
+    - FDFoundation
+    - IQKeyboardManager
+    - SnapKit
+  - FDUIKit/FDDatePickerView (0.2.7):
+    - FDFoundation
+    - FDUIKit/FDButton
+    - FDUIKit/FDUIResource
+    - IQKeyboardManager
+    - SnapKit
+  - FDUIKit/FDMediaResources (0.2.7):
+    - FDUIKit/Hud
+    - FDUIKit/Toast
+    - IQKeyboardManager
+    - Kingfisher
+    - SnapKit
+  - FDUIKit/FDMultiMedia (0.2.7):
+    - FDFoundation
+    - FDUIKit/FDAutoLayout
+    - FDUIKit/Toast
+    - FDUIKit/Utils
+    - IQKeyboardManager
+    - SnapKit
+  - FDUIKit/FDPhotos (0.2.7):
+    - FDFoundation
+    - FDUIKit/BaseController
+    - FDUIKit/FDAlertView
+    - FDUIKit/FDAutoLayout
+    - FDUIKit/FDButton
+    - FDUIKit/FDUIResource
+    - FDUIKit/Hud
+    - FDUIKit/PopupControl
+    - FDUIKit/Toast
+    - FDUIKit/Utils
+    - IQKeyboardManager
+    - SnapKit
+  - FDUIKit/FDProgressView (0.2.7):
+    - FDFoundation
+    - IQKeyboardManager
+    - SnapKit
+  - FDUIKit/FDPromptView (0.2.7):
+    - FDFoundation
+    - FDUIKit/FDButton
+    - FDUIKit/FDUIResource
+    - FDUIKit/PopupControl
+    - IQKeyboardManager
+    - SnapKit
+  - FDUIKit/FDScanning (0.2.7):
+    - FDFoundation
+    - FDUIKit/FDAutoLayout
+    - FDUIKit/FDPhotos
+    - IQKeyboardManager
+    - SnapKit
+  - FDUIKit/FDSegmentedControl (0.2.7):
+    - FDFoundation
+    - IQKeyboardManager
+    - SnapKit
+  - FDUIKit/FDUIResource (0.2.7):
+    - FDFoundation
+    - IQKeyboardManager
+    - SnapKit
+  - FDUIKit/FDVerifyCode (0.2.7):
+    - FDFoundation
+    - IQKeyboardManager
+    - SnapKit
+  - FDUIKit/Form (0.2.7):
+    - Eureka (~> 4.0)
+    - FDFoundation
+    - FDUIKit/FDUIResource
+    - FDUIKit/Toast
+    - IQKeyboardManager
+    - SnapKit
+  - FDUIKit/Hud (0.2.7):
+    - FDFoundation
+    - IQKeyboardManager
+    - SnapKit
+  - FDUIKit/PanoView (0.2.7):
+    - IQKeyboardManager
+    - SnapKit
+  - FDUIKit/PopupControl (0.2.7):
+    - FDFoundation
+    - FDUIKit/FDUIResource
+    - IQKeyboardManager
+    - SnapKit
+  - FDUIKit/Toast (0.2.7):
+    - FDFoundation
+    - IQKeyboardManager
+    - SnapKit
+  - FDUIKit/Utils (0.2.7):
+    - IQKeyboardManager
+    - SnapKit
+  - FDUIKit/VerifyCode (0.2.7):
+    - FDFoundation
+    - IQKeyboardManager
+    - SnapKit
+  - IQKeyboardManager (6.3.0)
+  - Kingfisher (5.4.0)
+  - SnapKit (5.0.0)
+
+DEPENDENCIES:
+  - "FDFoundation (from `git@git.nevint.com:DOMOBILE-FeiDian/DOMOBILE-FeiDian-FDFoundation.git`, commit `a76e4b7511fe56b6b42a1d78c376847b1ecc50bb`)"
+  - "FDUIKit (from `git@git.nevint.com:DOMOBILE-FeiDian/FDUIKit.git`, commit `e33b2ed38c113bb7a2d655b3b13298c0734de911`)"
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Eureka
+    - IQKeyboardManager
+    - Kingfisher
+    - SnapKit
+
+EXTERNAL SOURCES:
+  FDFoundation:
+    :commit: a76e4b7511fe56b6b42a1d78c376847b1ecc50bb
+    :git: "git@git.nevint.com:DOMOBILE-FeiDian/DOMOBILE-FeiDian-FDFoundation.git"
+  FDUIKit:
+    :commit: e33b2ed38c113bb7a2d655b3b13298c0734de911
+    :git: "git@git.nevint.com:DOMOBILE-FeiDian/FDUIKit.git"
+
+CHECKOUT OPTIONS:
+  FDFoundation:
+    :commit: a76e4b7511fe56b6b42a1d78c376847b1ecc50bb
+    :git: "git@git.nevint.com:DOMOBILE-FeiDian/DOMOBILE-FeiDian-FDFoundation.git"
+  FDUIKit:
+    :commit: e33b2ed38c113bb7a2d655b3b13298c0734de911
+    :git: "git@git.nevint.com:DOMOBILE-FeiDian/FDUIKit.git"
+
+SPEC CHECKSUMS:
+  Eureka: 28ea296f06710f6745266b71f17862048941a32d
+  FDFoundation: 51a8792f205ab9f0cb7589accf85c32ad84c1fc6
+  FDUIKit: cda886b192e2d62f01e7a9dbd407f0c24b867b8a
+  IQKeyboardManager: 2ca9d64893247556f53523dcd8d78641f0ba7c23
+  Kingfisher: 9c8f2cc6710334e06f32ba2b45e77707d5e2f0c9
+  SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
+
+PODFILE CHECKSUM: 502a725eac232ecda631c3393e28ad4ccaaa15dd
+
+COCOAPODS: 1.8.3
